@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Book_GPT"
+              title="Book GPT"
               description="You can think me as your knowledge base, once you uploaded a book, the knowledge will be persisted in the database. You can come back at any time to ask questions about them, across multiple books."
               ghLink="https://github.com/ashokpds15/book-gpt"
               demoLink="https://book-gpt-dtxy.vercel.app/"
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              //demoLink="https://blogs.soumya-jit.tech/"
+              title="Hamro Share"
+              description="HamroShare is a minimal web-application that lets you apply for IPOs from multiple meroshare accounts at once. Note: This programe was made with intention of learning more of ReactJS . I am not a professional ReactJS Dev . Saying that , i hope i am not bullied for my way of code.😔"
+              ghLink="https://github.com/ashokpds15/Autoaply_Teroshare"
+              demoLink="https://a2925909.autoaply-teroshare.pages.dev/"
             />
           </Col>
 
@@ -58,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="HamroShare is a minimal web-application that lets you apply for IPOs from multiple meroshare accounts at once. Note: This programe was made with intention of learning more of ReactJS . I am not a professional ReactJS Dev . Saying that , i hope i am not bullied for my way of code.😔"
-              ghLink="https://github.com/ashokpds15/Autoaply_Teroshare"
-              demoLink="https://a2925909.autoaply-teroshare.pages.dev/"
+              title="Bits-0f-C0de"
+              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
