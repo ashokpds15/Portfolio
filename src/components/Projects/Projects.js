@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              //ghLink="https://github.com/soumyajit4419/Chatify"
-             // demoLink="https://chatify-49.web.app/"
+              title="Book_GPT"
+              description="You can think me as your knowledge base, once you uploaded a book, the knowledge will be persisted in the database. You can come back at any time to ask questions about them, across multiple books."
+              ghLink="https://github.com/ashokpds15/book-gpt"
+              demoLink="https://book-gpt-dtxy.vercel.app/"
             />
           </Col>
 
