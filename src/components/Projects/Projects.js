@@ -39,7 +39,7 @@ function Projects() {
               title="Hamro Share"
               description="HamroShare is a minimal web-application that lets you apply for IPOs from multiple meroshare accounts at once. Note: This programe was made with intention of learning more of ReactJS . I am not a professional ReactJS Dev . Saying that , i hope i am not bullied for my way of code.😔"
               ghLink="https://github.com/ashokpds15/HamroShare"
-              demoLink="ashokpds15.github.io/HamroShare/"
+              demoLink="https://ashokpds15.github.io/HamroShare/"
             />
           </Col>
 
