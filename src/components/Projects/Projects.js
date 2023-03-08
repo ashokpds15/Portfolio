@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Own Chat GPT"
               description="Chat with GPT is an open-source, unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice."
-              https://github.com/ashokpds15/Own-Chat-GPT/
-              demoLink="https://ashokpds15.github.io/own-chat-gpt/          
+              ghLink="https://github.com/ashokpds15/Own-Chat-GPT"
+              demoLink="https://ashokpds15.github.io/Own-Chat-GPT/"              
             />
           </Col>
 
