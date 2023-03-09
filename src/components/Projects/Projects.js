@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Book GPT"
               description="You can think me as your knowledge base, once you uploaded a book, the knowledge will be persisted in the database. You can come back at any time to ask questions about them, across multiple books."
-              ghLink="https://github.com/ashokpds15/book-gpt"
-              demoLink="https://book-gpt-dtxy.vercel.app/"
+              //ghLink="https://github.com/ashokpds15/book-gpt"
+              //demoLink="https://book-gpt-dtxy.vercel.app/"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Hamro Share"
               description="HamroShare is a minimal web-application that lets you apply for IPOs from multiple meroshare accounts at once. Note: This programe was made with intention of learning more of ReactJS . I am not a professional ReactJS Dev . Saying that , i hope i am not bullied for my way of code.😔"
-              ghLink="https://github.com/ashokpds15/HamroShare"
-              demoLink="https://ashokpds15.github.io/HamroShare/"
+              //ghLink="https://github.com/ashokpds15/HamroShare"
+              //demoLink="https://ashokpds15.github.io/HamroShare/"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Own Chat GPT"
               description="Chat with GPT is an open-source, unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice."
-              ghLink="https://github.com/ashokpds15/Own-Chat-GPT"
-              demoLink="https://ashokpds15.github.io/Own-Chat-GPT/"              
+              //ghLink="https://github.com/ashokpds15/Own-Chat-GPT"
+              //demoLink="https://ashokpds15.github.io/Own-Chat-GPT/"              
             />
           </Col>
 
